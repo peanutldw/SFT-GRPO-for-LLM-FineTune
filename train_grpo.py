@@ -114,8 +114,8 @@ def extract_xml_answer(text: str) -> str:
 # Reward functions
 
 client = OpenAI(
-    api_key = "9c54b618-2806-4546-b6b1-0a33783a91e8",
-    base_url = "https://ark.cn-beijing.volces.com/api/v3",
+    api_key = "",
+    base_url = "",
     timeout = 5
 )
 
